@@ -34,8 +34,8 @@ This project is an interactive web application built with **Streamlit** that vis
 
 ### 1.Clone Repository
 
-git clone https://github.com/KHADIJAELHAOU/streamlit-data-visualization
-cd hr-analytics-dashboard
+- git clone https://github.com/KHADIJAELHAOU/streamlit-data-visualization
+- cd hr-analytics-dashboard
 
 ### 2.Install Dependencies
 
